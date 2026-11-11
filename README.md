@@ -1,4 +1,4 @@
-# Representation Learning for Tabular Data — CMPE 255 Short Story
+# Representation Learning for Tabular Data: CMPE 255 Short Story
 
 A short story on how machine learning models learn from tables, from gradient-boosted trees and specialized deep networks to transferable and tabular foundation models such as TabPFN.
 

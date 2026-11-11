@@ -1,0 +1,17 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+
+# Never commit
+*.pdf
+*.mp4
+*.mov

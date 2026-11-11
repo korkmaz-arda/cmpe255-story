@@ -2,11 +2,9 @@
 
 A short story on how machine learning models learn from tables, from gradient-boosted trees and specialized deep networks to transferable and tabular foundation models such as TabPFN.
 
-| | Link | Status |
+| Article | Slides | Video |
 |---|---|---|
-| Medium article | <MEDIUM_URL> | 🚧 In progress |
-| Slides | <SLIDES_URL> | 🚧 In progress |
-| Video | <YOUTUBE_URL> | 🚧 In progress |
+| [Read on Medium](#) | [View the slides](#) | [Watch on YouTube](#) |
 
 ## Paper
 
